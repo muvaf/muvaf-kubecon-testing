@@ -29,3 +29,4 @@ spec:
           image: ghcr.io/muvaf/muvaf-kubecon-testing:{{ .Values.image.tag }}
           ports:
             - name: http
+              containerPort: 8080
