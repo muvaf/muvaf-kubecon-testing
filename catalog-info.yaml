@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "muvaf-kubecon-testing"
+spec:
+  type: service
+  lifecycle: experimental
+  owner: "muvaf"

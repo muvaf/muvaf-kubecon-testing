@@ -1,0 +1,6 @@
+apiVersion: v2
+name: muvaf-kubecon-testing-chart
+description: A Helm chart for muvaf-kubecon-testing owned by muvaf
+type: application
+version: 0.1.0
+appVersion: "1.16.0"
